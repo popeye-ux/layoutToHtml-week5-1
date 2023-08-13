@@ -1,0 +1,72 @@
+.index-title {
+  font-size: 100px;
+}
+// *{
+//   border:1px solid red;
+// }
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+}
+
+// left
+.left {
+  height: 100vh;
+  padding: 32px;
+  padding-bottom: 0px;
+  background: #f8f9fa;
+}
+.brand {
+  margin-bottom: 32px;
+}
+.nav-tab:hover{
+  border-left:#198754 2px solid;
+  color:#198754
+}
+.main {
+  padding: 32px;
+  padding-left: 32px;
+}
+.text-12 {
+  font-size: 12px;
+}
+
+// right
+.gray-900 {
+  color: #212529;
+}
+h1 {
+  font-size: 24px;
+}
+.photo {
+  width: 40px;
+  height: 40px;
+}
+.name {
+  // line-height: 24px;
+  margin-bottom: 4px;
+}
+.btn-download {
+  border: 1px solid #ced4da;
+}
+.photo {
+  border-radius: 50%;
+}
+.photo1 {
+  background: url("../../assets/images/emilywang.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.photo2 {
+  background: url("../../assets/images/andychen.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.input-area{
+  border:0px !important;
+}
+.modal-footer{
+  border: 0px;
+}
